@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently studying **App-Development at Fagskolen Kristiania**
   
-    - 🌱 Learned and still learning **Kotlin, Firebase.io, Android development**
+    - 🌱 Finished 60 stp with top grade A -> **Kotlin, Firebase.io, Android development**
 
-- 🌱 I’m currently starting with **Swift, Flutter**
+- 🌱 I’m currently learning  **SwiftUI**
 
 - 📫 How to reach me **dimitrije.pesic@protonmail.com**
 
@@ -15,12 +15,13 @@
   
   Some companies I reported vulnerabilities to:
   
-  Facebook - Bug bounty
-  TeliaCERT - Thank you email.
+  Facebook
+  Telia
   Itslearning - Internship & part time remote job
-  Norsk Tipping - Thank you email.
-  Tine AS - Giftcard
-  Ikomm.no - Thank you email.
+  Norsk Tipping
+  TISE
+  Sparebank1
+  Instructure Canvas
   And many more...
   https://itslearning.com/global/your-data-matters/responsible-disclosure/hall-of-fame/
 
