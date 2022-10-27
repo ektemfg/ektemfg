@@ -22,6 +22,8 @@
   TISE
   Sparebank1
   Instructure Canvas
+  Google
+  Linkedin
   And many more...
   https://itslearning.com/global/your-data-matters/responsible-disclosure/hall-of-fame/
 
