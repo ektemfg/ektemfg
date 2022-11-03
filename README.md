@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Dimitri.</h1>
-<h3 align="center">A student application developer from NORWAY <3</h3>
- <h3 align="center">Kotlin, Java, Web development, Penetration Testing</h3>
+<h1 align="center">Hi 👋, I'm Dimitrije.</h1>
+<h3 align="center">(Student) App Developer from NORWAY <3</h3>
+ <h3 align="center">Kotlin, Swift/SwiftUI, Web development, Penetration Testing</h3>
 
 
 - 🔭 I’m currently studying **App-Development at Fagskolen Kristiania**
   
     - 🌱 Finished 60 stp with top grade A -> **Kotlin, Firebase.io, Android development**
 
-- 🌱 I’m currently learning  **SwiftUI**
+- 🌱 Swift/SwiftUI - API Integrations, UI , MVVM 4 Life
+ 
+ - 🌱 Dart/Flutter - learning atm
 
 - 📫 How to reach me **dimitrije.pesic@protonmail.com**
 
