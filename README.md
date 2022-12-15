@@ -7,9 +7,9 @@
   
     - 🌱 Finished 60 stp with top grade A -> **Kotlin, Firebase.io, Android development**
 
-- 🌱 Swift/SwiftUI - API Integrations, UI , MVVM 4 Life
+- 🌱 Swift/SwiftUI - API Integrations, UI/UX, Firebase
  
- - 🌱 Dart/Flutter - learning atm
+ - 🌱 Dart/Flutter - Love it
 
 - 📫 How to reach me **dimitrije.pesic@protonmail.com**
 
