@@ -3,7 +3,7 @@
  <h3 align="center">Kotlin, Swift/SwiftUI, Web development, Penetration Testing</h3>
 
 
-- 🔭 I’m currently studying **App-Development at Fagskolen Kristiania**
+- 🔭 I’m currently studying **App-Development at Kristiania**
   
     - 🌱 Finished 60 stp with top grade A -> **Kotlin, Firebase.io, Android development**
 
