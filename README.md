@@ -1,42 +1,40 @@
 <h1 align="center">Hi 👋, I'm Dimitrije.</h1>
-<h3 align="center">(Student) App Developer from NORWAY <3</h3>
- <h3 align="center">Kotlin, Swift/SwiftUI, Web development, Penetration Testing</h3>
-
-
-- 🔭 I’m currently studying **App-Development at Kristiania**
-  
-    - 🌱 Finished 60 stp with top grade A -> **Kotlin, Firebase.io, Android development**
-
-- 🌱 Swift/SwiftUI - API Integrations, UI/UX, Firebase
- 
- - 🌱 Dart/Flutter - Love it
-
-- 📫 How to reach me **dimitrije.pesic@protonmail.com**
-
-- ⚡ Fun fact **Awarded bug bounties multiple times**
-  
-  Some companies I reported vulnerabilities to:
-  
-  Facebook
-  Telia
-  Itslearning - Internship & part time remote job
-  Norsk Tipping
-  TISE
-  Sparebank1
-  Instructure Canvas
-  Google
-  Linkedin
-  And many more...
-  https://itslearning.com/global/your-data-matters/responsible-disclosure/hall-of-fame/
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ektemfg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ektemfg" /></a></p><br><br>
-
+<h3 align="center">I'm a student app developer from Norway with a passion for Kotlin, Swift/SwiftUI, web development, and penetration testing.</h3>
+<h3 align="center">Currently studying App Development at Kristiania University.</h3>
+<h3 align="center">Skills:</h3>
+<ul>
+    <li>Kotlin, Firebase, and Android development 60stp - Grade: A</li>
+    <li>Swift/SwiftUI,Dart/Flutter, API Integrations, UI/UX, and Firebase Integrations - 30 stp - Grade: B</li>
+    <li>Professional Internship at Shortcut Norway - February 2023</li>
+</ul>
+<h3 align="center">Experience:</h3>
+<ul>
+    <li>Awarded multiple bug bounties & credz for reporting vulnerabilities to companies such as Facebook, Telia, Itslearning, Norsk Tipping, TISE, Sparebank1, Instructure Canvas, Google, and LinkedIn.</li>
+    <li>Internship and part-time remote job at Itslearning</li>
+ <li>Made my own cross-platform app for partners 💙 Just for fun</li>
+ <li>Internship and part-time remote job at Itslearning</li>
+ <li>Read about me at Kode24:https://www.kode24.no/artikkel/dusorjegeren-dimitrije-er-ikke-fan-av-automatiserte-verktoy-jeg-bruker-macos-burp-suite-og-hjernen-min/77623024</li>
+</ul>
+<h3 align="center">Contact:</h3>
+<ul>
+    <li>Email: dimitrije.pesic@protonmail.com</li>
+</ul>
+<h3 align="center">Connect with me:</h3>
+<ul>
+    <li>LinkedIn: http://linkedin.com/in/developerosl/</li>
+ <h3 align="center">Check Out My App:</h3>
+ <li>Web: https://ourweekplan.com/</li>
+ <li>Play Store: https://play.google.com/store/apps/details?id=com.pesic.our_week_plan</li>
+</ul>
+<h3 align="center">Languages and Tools:</h3>
+<ul>
+    <li>Android Studio - Kotlin & Flutter/Dart</li>
+    <li>Swift + SwiftUI</li>
+    <li>I understand Java :)</li>
+    <li>Familiar with C# & Javascript</li>
+    <li>Pentesting with Burp Suite</li>
+</ul>
+<h3 align="center">Support:</h3>
+<ul>
+    <li>Buy me a coffee at <a href="https://www.buymeacoffee.com/ektemfg">BuyMeACoffee</a></li>
+</ul>
