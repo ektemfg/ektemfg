@@ -4,7 +4,8 @@
 <h3 align="center">Skills:</h3>
 <ul>
     <li>Android Development - Kotlin, Firebase, Jetpack Compose</li>
-    <li>Swift/SwiftUI,Dart/Flutter, API Integrations, UI/UX, and Firebase Integrations - 30 stp - Grade: B</li>
+     <li>iOS Development - Swift + SwiftUI</li>
+    <li>,Dart/Flutter, API Integrations, UI/UX, and Firebase Integrations</li>
     <li> Student Internship at Shortcut Norway - from February 2023</li>
 </ul>
 <h3 align="center">Experience:</h3>
