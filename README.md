@@ -3,9 +3,9 @@
 <h3 align="center">Currently studying App Development at Kristiania University.</h3>
 <h3 align="center">Skills:</h3>
 <ul>
-    <li>Kotlin, Firebase, and Android development 60stp - Grade: A</li>
+    <li>Android Development - Kotlin, Firebase, Jetpack Compose</li>
     <li>Swift/SwiftUI,Dart/Flutter, API Integrations, UI/UX, and Firebase Integrations - 30 stp - Grade: B</li>
-    <li>Professional Internship at Shortcut Norway - February 2023</li>
+    <li> Student Internship at Shortcut Norway - from February 2023</li>
 </ul>
 <h3 align="center">Experience:</h3>
 <ul>
